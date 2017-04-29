@@ -1,6 +1,6 @@
 {
   "name": "cn-weather",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "cn-weather -h",
   "main": "index.js",
   "bin": {

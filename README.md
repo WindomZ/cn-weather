@@ -1,4 +1,4 @@
-# cn-weather-cli
+# cn-weather
 
 ## Usage
 ```bash
@@ -21,4 +21,4 @@ $ cn-weather -h
 
 ## License
 
-The [MIT License](https://github.com/WindomZ/cn-weather-cli/blob/master/LICENSE)
+The [MIT License](https://github.com/WindomZ/cn-weather/blob/master/LICENSE)
